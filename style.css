@@ -1,0 +1,224 @@
+body {
+    margin: 0;
+    background-color: rgb(207, 207, 207); 
+}
+.top-block{
+    background-image: url(1.jpg);
+    height:70vh;
+    background-size: cover;
+   
+}
+#top-h1{
+    margin-top: 0;
+    color: white;
+    text-align: center;
+    padding-top: 6vh;
+}
+.top-txt{ 
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-left: 115vh;
+    padding-top:0;
+    padding-left: 5vh;
+    font-size: larger;
+    border-left-style: solid;
+    border-color: rgb(221, 188, 38);
+}
+#freepik{
+    color: white;
+}
+#freepik-2{
+    color: rgb(0, 0, 0);
+}
+.btn{
+    width: 150px;
+    height: 40px;
+    color: black;
+    background-color: rgb(221, 188, 38);
+    border-radius: 5px; 
+    margin-top: 1vh;
+}
+.second-block{
+    background-color: rgb(207, 207, 207);
+    display:flex ;
+    justify-content: center;
+    
+}
+.block{
+    background-color: white;
+    width: 200px;
+    margin: 50px;
+    text-align: center;
+    box-shadow: 10px 5px 5px grey;
+  
+}
+#txt-block-2{
+    opacity: 0.3;
+}
+.third-block{
+    background-color: rgb(245, 190, 10);
+    display: flex;
+    align-items: center;
+    padding-bottom: 40vh;
+}
+.img{
+    width:40%;
+    height: 40%;
+    margin-top: 10vh;
+    margin-left: 60vh;
+   
+}
+.txt-block{
+    position: absolute;
+    background-color: white;
+    text-align: left;
+    padding-left: 2vh;
+    padding-bottom: 3vh;
+    margin-left: 110vh;
+    margin-top: 45vh;
+}
+.txt-block-3{
+    padding: 2vh;
+    margin: 2vh;
+    background-color: white;
+    font-size: small;
+    
+}
+.block-5{
+   display: flex;
+   justify-content: center;
+}
+.txt-block-2{
+    background-color: white;
+    padding-left: 24vh;
+    position: absolute;
+    padding-bottom: 7vh;
+    
+}
+#block-5-img{
+    height: 25vh;
+    width: 25vh;
+    margin-top: 10vh;
+    margin-right: 10vh;
+    margin-left: 15vh;
+}
+#block-5-img-2{
+    height: 25vh;
+    width: 45vh;
+    margin-top: 18vh;
+}
+#block-5-img-3{
+    height: 25vh;
+    width: 25vh;
+    margin-top: 40vh;
+    margin-right:20vh ;
+    position: absolute;
+}
+#block-5-img-4{
+    height: 25vh;
+    width: 25vh;
+    margin-top: 50vh;  
+    margin-left: 45vh;
+    position: absolute;
+}
+#txt{
+   
+    margin-top: 70vh;  
+    margin-right: 55vh;
+    margin-left: -70vh;
+    border-left-style: solid;
+    border-color: rgb(58, 56, 55);
+    padding-left: 5vh;
+    margin-bottom: 10vh;
+}
+.block-6{
+    background-color: rgb(245, 190, 10);
+    display: flex;
+    justify-content: center;
+}
+.txt-block-3{
+    position: absolute;
+    margin-left:50vh;
+    margin-top: 20vh;
+}
+#block-6-img{
+    height: 50vh;
+    width: 40vh;
+    margin-right: 20vh;
+    margin-top: 10vh;
+}
+.block-7{
+    background-color: rgb(207, 207, 207);
+    display: block;
+}
+#block-7-img{
+    height: 25vh;
+    width: 50vh;
+    margin-top: 10vh;
+    margin-left: 55vh;
+    position: absolute;
+}
+#block-7-img-2{
+    height: 35vh;
+    width: 45vh;
+    margin-left: 95vh;
+    margin-top: 20vh;
+}
+.txt-block-4{
+   position: absolute;
+   background-color: white;
+   padding-left: 3vh;
+   padding-bottom: 3vh;
+   margin-top: -10vh;
+   margin-left: 65vh;
+}
+#block-7-img-3{
+    height: 20vh;
+    width: 35vh;
+    margin-top: 15vh;
+    margin-left: 55vh;
+}
+#block-7-img-4{
+    height: 40vh;
+    width: 25vh;
+    margin-top: 5vh;
+    margin-left: 25vh;
+    position: absolute;
+}
+.block-8{
+    display: flex;
+    background-color: rgb(245, 190, 10);
+    margin-top: 20vh;
+}
+.pins{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 3vh;
+    padding: 1vh;
+}
+.short-info{
+    margin-top: 5vh;
+    margin-left: 50vh;
+    position:absolute ;
+}
+.form{
+    color: white;
+    background-color: rgb(37, 33, 33);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 5vh 10vh;
+    margin-left: 95vh;
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+}
+#input-2{
+    height: 20vh;
+    width: 40vh;
+}
+#input{
+    width: 40vh;
+}
